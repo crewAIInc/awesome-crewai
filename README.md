@@ -47,7 +47,7 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 
   *Author: [@Ronoh4](https://github.com/Ronoh4)*
 
-  - **[Devyan](https://github.com/theyashwanthsai/Devyan)**  
+- **[Devyan](https://github.com/theyashwanthsai/Devyan)**  
   Building a Software Dev Team using multi agent architecture. Orchestrate a team of agents to solve programming tasks. The crew contains an architect, programmer, tester and a final reviewer. 
 
   *Author: [@theyashwanthsai](https://github.com/theyashwanthsai)*
