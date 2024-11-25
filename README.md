@@ -33,11 +33,6 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 ---
 
 ## Projects
-- **[Devyan](https://github.com/theyashwanthsai/Devyan)**  
-  Building a Software Dev Team using multi agent architecture. Orchestrate a team of agents to solve programming tasks. The crew contains an architect, programmer, tester and a final reviewer. 
-
-  *Author: [@theyashwanthsai](https://github.com/theyashwanthsai)*
-
 
 
 ### Integrations
@@ -51,6 +46,11 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
   This project leverages CrewAI to build an intelligent agent system that prioritizes information from Google's Knowledge Graph for reliability. If no relevant data is found, it reverts to a General Google Search to scrape the top two URLs from the organic results, ensuring accurate and comprehensive information retrieval about entities, organizations, or individuals.
 
   *Author: [@Ronoh4](https://github.com/Ronoh4)*
+
+  - **[Devyan](https://github.com/theyashwanthsai/Devyan)**  
+  Building a Software Dev Team using multi agent architecture. Orchestrate a team of agents to solve programming tasks. The crew contains an architect, programmer, tester and a final reviewer. 
+
+  *Author: [@theyashwanthsai](https://github.com/theyashwanthsai)*
 
 ---
 
