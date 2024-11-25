@@ -33,6 +33,12 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 ---
 
 ## Projects
+- **[Devyan](https://github.com/theyashwanthsai/Devyan)**  
+  Building a Software Dev Team using multi agent architecture. Orchestrate a team of agents to solve programming tasks. The crew contains an architect, programmer, tester and a final reviewer. 
+
+  *Author: [@theyashwanthsai](https://github.com/theyashwanthsai)*
+
+
 
 ### Integrations
 - **[CrewAI + GMail + Coinbase + Stripe Integration](https://github.com/dexhorthy/mailcrew/tree/main)**  
