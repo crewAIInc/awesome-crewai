@@ -7,11 +7,12 @@
 
 ## Table of Contents
 1. [What is CrewAI?](#what-is-crewai)
-2. [How to Contribute](#how-to-contribute)
-3. [Projects](#projects)
+2. [Submission Guidelines](#submission-guidelines)
+3. [How to Contribute](#how-to-contribute)
+4. [Projects](#projects)
    - [Integrations](#integrations)
    - [Tutorials](#tutorials)
-4. [Acknowledgments](#acknowledgments)
+5. [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -21,6 +22,25 @@ CrewAI is an open-source framework for building and deploying AI agents designed
 
 ---
 
+## Submission Guidelines
+
+We welcome contributions from developers building open-source projects that enhance the CrewAI open-source ecosystem. 
+
+However, please note the following criteria for inclusion in this repository:
+
+1. **Eligible Projects:**
+   - Open-source projects built and maintained by individual developers or small teams.
+   - Resources that directly enhance or showcase CrewAI usage.
+
+2. **Ineligible Projects:**
+   - Commercial services or products.
+   - Company-led or proprietary projects.
+   - Projects with a primary focus on promoting a business.
+
+
+If your project is a service, platform, or standalone product built on CrewAI, please fill out this [form](https://share.hsforms.com/1djCk-vLCSLmtOd9M4KECZgr87kg) to be considered for inclusion on the [CrewAI ecosystem website](https://www.crewai.com/ecosystem).
+
+---
 ## How to Contribute
 
 We welcome contributions from the CrewAI community! If you've built an open-source project related to CrewAI, here's how you can add it to this list:
