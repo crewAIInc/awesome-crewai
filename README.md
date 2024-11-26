@@ -41,6 +41,12 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 
   *Author: [@dexhorthy](https://github.com/dexhorthy)*
 
+### Tools
+- **[OVADARE: AI Agent Conflict Resolution](https://github.com/nospecs/ovadare)**  
+ A framework that detects and resolves conflicts between AI agents, enabling smoother collaboration in multi-agent systems. Designed to complement platforms like CrewAI.
+
+  *Author: [@nospecs](https://github.com/nospecs)*
+
 ### Tutorials
 - **[Knowledge Graph & General Google Search Agent System](https://github.com/Ronoh4/KnowledgeGraphCrew/tree/main)**  
   This project leverages CrewAI to build an intelligent agent system that prioritizes information from Google's Knowledge Graph for reliability. If no relevant data is found, it reverts to a General Google Search to scrape the top two URLs from the organic results, ensuring accurate and comprehensive information retrieval about entities, organizations, or individuals.
