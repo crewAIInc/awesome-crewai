@@ -41,6 +41,11 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 
   *Author: [@dexhorthy](https://github.com/dexhorthy)*
 
+- **[CrewAI + OpenCommerce Integration](https://github.com/OpenCommerce-xyz/CrewAI_OpenCommerce_example)**  
+  Integration toolkit for enabling AI agents to make automated payments and access paid services using USDC. Load your agents with stablecoins and your entire CrewAI agents will be able to make payments and access paid services.
+
+  *Author: [@Idan-Levin](https://github.com/Idan-Levin)*
+
 ### Tutorials
 - **[Knowledge Graph & General Google Search Agent System](https://github.com/Ronoh4/KnowledgeGraphCrew/tree/main)**  
   This project leverages CrewAI to build an intelligent agent system that prioritizes information from Google's Knowledge Graph for reliability. If no relevant data is found, it reverts to a General Google Search to scrape the top two URLs from the organic results, ensuring accurate and comprehensive information retrieval about entities, organizations, or individuals.
