@@ -52,6 +52,11 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 
   *Author: [@theyashwanthsai](https://github.com/theyashwanthsai)*
 
+- **[Flight Finder and Trip Planner CrewAI](https://github.com/sachs7/flight_finder_and_trip_planner_crewai)
+  This project helps one to search the flights using Google Flights API (SERPAPI) tool, and SERPER API for web searches for planner an awesome trip.
+
+  *Author: [@sachs7](https://github.com/sachs7/)*
+
 ---
 
 ## Acknowledgments
