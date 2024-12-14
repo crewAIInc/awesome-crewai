@@ -1,7 +1,7 @@
 ---
-name: Add a Project
-about: Suggest a new project to include in the Awesome CrewAI list
-title: "[New Project] Project Name"
+name: CREWAI-powered-Blood-Report-Analysis
+about: In depth blood report analysis using CrewAI 
+title: "[New Project] CREWAI-powered-Blood-Report-Analysis"
 labels: community
 assignees: tonykipkemboi
 
@@ -10,22 +10,18 @@ assignees: tonykipkemboi
 ## Project Details
 
 **Project Name:**  
-_What is the name of your project?_
+CREWAI-powered-Blood-Report-Analysis
 
 **Description:**  
-_A brief description of what your project does._
+This project sets up a series of agents and tasks using the crew.ai framework to analyze a blood report and provide health recommendations based on the analysis and related internet articles. The project uses tools for reading directories, files, and PDFs, as well as searching the web for relevant health articles.
 
 **Repository Link:**  
-_Link to your project's repository (e.g., GitHub or GitLab)._
+https://github.com/yatharth230703/CREWAI-powered-Blood-Report-Analysis
 
 **Category:**  
-_Which category does this project belong to? (e.g., Integrations, Tutorials)._
+Integrations
 
 **Author:**  
-_Your GitHub username or link to your profile for attribution._
+https://github.com/yatharth230703
 
-**Impact or Use Case (Optional):**  
-_What problem does this project solve, or how does CrewAI provide ROI?_
 
-**Additional Notes (Optional):**  
-_Anything else we should know about this project?_
