@@ -48,39 +48,25 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 1. Fork this repository.
 2. Add your project to the relevant section in the `README.md` file.
 3. Submit a pull request with your changes.
-4. Alternatively, use our [Add Project Issue Template](https://github.com/crewai/awesome-crewai/issues/new?template=add-project.md).
 
 ---
 
 ## Projects
 
-
 ### Integrations
-- **[CrewAI + GMail + Coinbase + Stripe Integration](https://github.com/dexhorthy/mailcrew/tree/main)**  
-  Mailcrew is a language model agent that performs various tasks over email, including interacting with Stripe and Coinbase APIs.
+| Title                          | Description                               | Author                                   |
+|---------------------------------------|---------------------------------------|-----------------------------------------------|
+|         [CrewAI + GMail + Coinbase + Stripe Integration](https://github.com/dexhorthy/mailcrew/tree/main)                  |     Mailcrew is a language model agent that performs various tasks over email, including interacting with Stripe and Coinbase APIs.   | [@dexhorthy](https://github.com/dexhorthy)                              |
+|          [CrewAI + OpenCommerce Integration](https://github.com/OpenCommerce-xyz/CrewAI_OpenCommerce_example)          |   Integration toolkit for enabling AI agents to make automated payments and access paid services using USDC. Load your agents with stablecoins and your entire CrewAI agents will be able to make payments and access paid services.   | [@Idan-Levin](https://github.com/Idan-Levin)         |
 
-  *Author: [@dexhorthy](https://github.com/dexhorthy)*
-
-- **[CrewAI + OpenCommerce Integration](https://github.com/OpenCommerce-xyz/CrewAI_OpenCommerce_example)**  
-  Integration toolkit for enabling AI agents to make automated payments and access paid services using USDC. Load your agents with stablecoins and your entire CrewAI agents will be able to make payments and access paid services.
-
-  *Author: [@Idan-Levin](https://github.com/Idan-Levin)*
-
+---
 ### Tutorials
-- **[Knowledge Graph & General Google Search Agent System](https://github.com/Ronoh4/KnowledgeGraphCrew/tree/main)**  
-  This project leverages CrewAI to build an intelligent agent system that prioritizes information from Google's Knowledge Graph for reliability. If no relevant data is found, it reverts to a General Google Search to scrape the top two URLs from the organic results, ensuring accurate and comprehensive information retrieval about entities, organizations, or individuals.
-
-  *Author: [@Ronoh4](https://github.com/Ronoh4)*
-
-- **[Devyan](https://github.com/theyashwanthsai/Devyan)**  
-  Building a Software Dev Team using multi agent architecture. Orchestrate a team of agents to solve programming tasks. The crew contains an architect, programmer, tester and a final reviewer. 
-
-  *Author: [@theyashwanthsai](https://github.com/theyashwanthsai)*
-
-- **[Flight Finder and Trip Planner CrewAI](https://github.com/sachs7/flight_finder_and_trip_planner_crewai)**  
-  This project helps one to search the flights using Google Flights API (SERPAPI) tool, and SERPER API for web searches to plan an awesome trip.
-
-  *Author: [@sachs7](https://github.com/sachs7/)*
+| Title                          | Description                               | Author                                   |
+|---------------------------------------|---------------------------------------|-----------------------------------------------|
+|         [Knowledge Graph & General Google Search Agent System](https://github.com/Ronoh4/KnowledgeGraphCrew/tree/main)                  |     This project leverages CrewAI to build an intelligent agent system that prioritizes information from Google's Knowledge Graph for reliability. If no relevant data is found, it reverts to a General Google Search to scrape the top two URLs from the organic results, ensuring accurate and comprehensive information retrieval about entities, organizations, or individuals.   | [@Ronoh4](https://github.com/Ronoh4)                              |
+|          [Devyan](https://github.com/theyashwanthsai/Devyan)          |   Building a Software Dev Team using multi agent architecture. Orchestrate a team of agents to solve programming tasks. The crew contains an architect, programmer, tester and a final reviewer.    | [@theyashwanthsai](https://github.com/theyashwanthsai)         |
+|         [Flight Finder and Trip Planner CrewAI](https://github.com/sachs7/flight_finder_and_trip_planner_crewai)                  |     This project helps one to search the flights using Google Flights API (SERPAPI) tool, and SERPER API for web searches to plan an awesome trip.   | [@sachs7](https://github.com/sachs7/)                              |
+|          [Christmas Themed Instacart Ordering Agent](https://github.com/peytoncasper/instacart-ordering-agent)         |   This project leverages the power of AI and web automation to create an agent capable of navigating and interacting with Instacart. The agent is designed to help users efficiently order groceries, with a focus on Christmas-themed items.    | [@peytoncasper](https://github.com/peytoncasper)         |
 
 ---
 
