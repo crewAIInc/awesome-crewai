@@ -71,7 +71,12 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 |         [Blood Report Analysis Crew](https://github.com/yatharth230703/CREWAI-powered-Blood-Report-Analysis)         |   This project leverages AI agents made using CrewAI framework in order t maintain a standard crew that analyzes blood reports by using a document reading tool , and provide insights as to what precautionary measures the patient should take based on online blog reports, fetched through a websurf tool    | [@yatharth230703](https://github.com/yatharth230703)     
 
 ---
+### Apps/UI's
+| Title                          | Description                               | Author                                   |
+|---------------------------------------|---------------------------------------|-----------------------------------------------|
+|         [PLACEHOLDER](https://example.com)                  |     Description of your project.   | [@YOUR-USERNAME](https://example.com)                              |
 
+---
 ## Acknowledgments
 
 A huge thank you to all contributors and community members for sharing your incredible projects with the CrewAI ecosystem! ❤️  
