@@ -81,7 +81,7 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 ## Acknowledgments
 
 A huge thank you to all contributors and community members for sharing your incredible projects with the CrewAI ecosystem! ❤️  
-Have an idea or suggestion? [Let us know](https://github.com/crewai/awesome-crewai/issues)!
+Have an idea or suggestion? [Let us know](https://github.com/crewAIInc/awesome-crewai/issues)!
 
 ---
 
