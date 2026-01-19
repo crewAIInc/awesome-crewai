@@ -58,6 +58,7 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
 |         [CrewAI + GMail + Coinbase + Stripe Integration](https://github.com/dexhorthy/mailcrew/tree/main)                  |     Mailcrew is a language model agent that performs various tasks over email, including interacting with Stripe and Coinbase APIs.   | [@dexhorthy](https://github.com/dexhorthy)                              |
 |          [CrewAI + OpenCommerce Integration](https://github.com/OpenCommerce-xyz/CrewAI_OpenCommerce_example)          |   Integration toolkit for enabling AI agents to make automated payments and access paid services using USDC. Load your agents with stablecoins and your entire CrewAI agents will be able to make payments and access paid services.   | [@Idan-Levin](https://github.com/Idan-Levin)         |
+|          [Registry Broker](https://github.com/hashgraph-online/registry-broker)          |   Universal index and routing layer for AI agents. Enables CrewAI agents to discover and connect with agents from NANDA, MCP, Virtuals, OpenRouter, A2A, and X402 Bazaar registries.   | [@hashgraph-online](https://github.com/hashgraph-online)         |
 
 ---
 ### Tutorials
