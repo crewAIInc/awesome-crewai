@@ -1,4 +1,4 @@
-# ✨ Awesome CrewAI ✨
+# â¨ Awesome CrewAI â¨
 
 > A curated collection of open-source projects built by the amazing CrewAI community.  
 > Discover ideas to help you unlock the full potential of AI Agents using CrewAI.
@@ -78,9 +78,12 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 |         [BlogPostEditor](https://huggingface.co/spaces/Skier8402/crewai_article_editor)                  |     A duo of agents that helps you improve your blogpost.The `Senior Article Editor` agent aims to elevate blog posts to their highest potential by refining the content for clarity, coherence, and audience engagement while preserving the writer's unique voice. The `Article Researcher` agent focuses on simplifying the review process by fact-checking, evaluating source credibility, and ensuring the accuracy and relevance of the information presented in the blog post. In a Streamlit UI on Huggingface.   | [@Shuyib](https://github.com/Shuyib)                              |
 
 ---
+- **[AgentBroker](https://agentbroker.polsia.app)** — API-first crypto exchange for AI agents. CrewAI agents can trade crypto, deposit, and withdraw programmatically via REST API. Sandbox mode available.
+
+
 ## Acknowledgments
 
-A huge thank you to all contributors and community members for sharing your incredible projects with the CrewAI ecosystem! ❤️  
+A huge thank you to all contributors and community members for sharing your incredible projects with the CrewAI ecosystem! â¤ï¸  
 Have an idea or suggestion? [Let us know](https://github.com/crewAIInc/awesome-crewai/issues)!
 
 ---
