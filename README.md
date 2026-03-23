@@ -81,6 +81,7 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 ## Acknowledgments
 
 A huge thank you to all contributors and community members for sharing your incredible projects with the CrewAI ecosystem! ❤️  
+- [bytepack CrewAI Integration](https://github.com/Sutr-dev999/crewai-efficient-agents) - Binary encoding for efficient inter-agent communication in CrewAI. 20x message compression. `pip install bytepack`
 Have an idea or suggestion? [Let us know](https://github.com/crewAIInc/awesome-crewai/issues)!
 
 ---
