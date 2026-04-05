@@ -58,6 +58,7 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
 |         [CrewAI + GMail + Coinbase + Stripe Integration](https://github.com/dexhorthy/mailcrew/tree/main)                  |     Mailcrew is a language model agent that performs various tasks over email, including interacting with Stripe and Coinbase APIs.   | [@dexhorthy](https://github.com/dexhorthy)                              |
 |          [CrewAI + OpenCommerce Integration](https://github.com/OpenCommerce-xyz/CrewAI_OpenCommerce_example)          |   Integration toolkit for enabling AI agents to make automated payments and access paid services using USDC. Load your agents with stablecoins and your entire CrewAI agents will be able to make payments and access paid services.   | [@Idan-Levin](https://github.com/Idan-Levin)         |
+|          [agent-pay — Payment Protocol for CrewAI](https://github.com/agentpay-protocol/agent-pay)          |   Let CrewAI agents send and receive USDC/ETH payments autonomously on Base L2. Built-in `AgentPayCrewTool` for instant integration. Escrow support for conditional payments. Fees < $0.001.   | [@agentpay-protocol](https://github.com/agentpay-protocol)         |
 
 ---
 ### Tutorials
