@@ -10,9 +10,10 @@
 2. [Submission Guidelines](#submission-guidelines)
 3. [How to Contribute](#how-to-contribute)
 4. [Projects](#projects)
+       - [Tools](#tools)
    - [Integrations](#integrations)
    - [Tutorials](#tutorials)
-5. [Acknowledgments](#acknowledgments)
+6. [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -30,9 +31,11 @@ However, please note the following criteria for inclusion in this repository:
 
 1. **Eligible Projects:**
    - Open-source projects built and maintained by individual developers or small teams.
-   - Resources that directly enhance or showcase CrewAI usage.
 
-2. **Ineligible Projects:**
+   ---
+
+   
+3. **Ineligible Projects:**
    - Commercial services or products.
    - Company-led or proprietary projects.
    - Projects with a primary focus on promoting a business.
@@ -53,12 +56,20 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 
 ## Projects
 
+### Tools
+
+| Name | Description | Author |
+|------|-------------|--------|
+| [SupraWall](https://github.com/wiserautomation/suprawall-plugins-) | Deterministic security guardrails for autonomous agents. Prevents prompt injection, SQLi, and enforces policy-based tool execution. | [@wiserautomation](https://github.com/wiserautomation) |
+
+---
+
+
 ### Integrations
 | Title                          | Description                               | Author                                   |
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
 |         [CrewAI + GMail + Coinbase + Stripe Integration](https://github.com/dexhorthy/mailcrew/tree/main)                  |     Mailcrew is a language model agent that performs various tasks over email, including interacting with Stripe and Coinbase APIs.   | [@dexhorthy](https://github.com/dexhorthy)                              |
 |          [CrewAI + OpenCommerce Integration](https://github.com/OpenCommerce-xyz/CrewAI_OpenCommerce_example)          |   Integration toolkit for enabling AI agents to make automated payments and access paid services using USDC. Load your agents with stablecoins and your entire CrewAI agents will be able to make payments and access paid services.   | [@Idan-Levin](https://github.com/Idan-Levin)         |
-
 ---
 ### Tutorials
 | Title                          | Description                               | Author                                   |
