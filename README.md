@@ -53,6 +53,7 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 
 ## Projects
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent orchestration with Claude Code, complementary patterns for agent coordination. MIT licensed.
 ### Integrations
 | Title                          | Description                               | Author                                   |
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
