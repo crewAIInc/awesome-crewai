@@ -58,6 +58,7 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
 |         [CrewAI + GMail + Coinbase + Stripe Integration](https://github.com/dexhorthy/mailcrew/tree/main)                  |     Mailcrew is a language model agent that performs various tasks over email, including interacting with Stripe and Coinbase APIs.   | [@dexhorthy](https://github.com/dexhorthy)                              |
 |          [CrewAI + OpenCommerce Integration](https://github.com/OpenCommerce-xyz/CrewAI_OpenCommerce_example)          |   Integration toolkit for enabling AI agents to make automated payments and access paid services using USDC. Load your agents with stablecoins and your entire CrewAI agents will be able to make payments and access paid services.   | [@Idan-Levin](https://github.com/Idan-Levin)         |
+|          [CrewAI + Signet Signing](https://github.com/Prismer-AI/signet)          |   Ed25519-sign every tool call with a tamper-evident audit trail. Drop-in hooks for CrewAI — 3 lines to integrate, zero infrastructure.   | [@willamhou](https://github.com/willamhou)         |
 
 ---
 ### Tutorials
