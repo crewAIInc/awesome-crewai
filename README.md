@@ -76,6 +76,8 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 | Title                          | Description                               | Author                                   |
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
 |         [BlogPostEditor](https://huggingface.co/spaces/Skier8402/crewai_article_editor)                  |     A duo of agents that helps you improve your blogpost.The `Senior Article Editor` agent aims to elevate blog posts to their highest potential by refining the content for clarity, coherence, and audience engagement while preserving the writer's unique voice. The `Article Researcher` agent focuses on simplifying the review process by fact-checking, evaluating source credibility, and ensuring the accuracy and relevance of the information presented in the blog post. In a Streamlit UI on Huggingface.   | [@Shuyib](https://github.com/Shuyib)                              |
+| [ProspectAI](https://github.com/moisesprat/ProspectAI) | Multi-agent investment research pipeline that chains five specialized AI agents (market sentiment, technical analysis, fundamental analysis, portfolio allocation, critic adversarial) to generate a 5-stock portfolio report with real-time SSE streaming. Built with CrewAI and Claude Haiku. | [@moisesprat](https://github.com/moisesprat) |
+
 
 ---
 ## Acknowledgments
