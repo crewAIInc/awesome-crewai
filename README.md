@@ -58,6 +58,7 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
 |         [CrewAI + GMail + Coinbase + Stripe Integration](https://github.com/dexhorthy/mailcrew/tree/main)                  |     Mailcrew is a language model agent that performs various tasks over email, including interacting with Stripe and Coinbase APIs.   | [@dexhorthy](https://github.com/dexhorthy)                              |
 |          [CrewAI + OpenCommerce Integration](https://github.com/OpenCommerce-xyz/CrewAI_OpenCommerce_example)          |   Integration toolkit for enabling AI agents to make automated payments and access paid services using USDC. Load your agents with stablecoins and your entire CrewAI agents will be able to make payments and access paid services.   | [@Idan-Levin](https://github.com/Idan-Levin)         |
+| [B2A Gov Scraper (MCP Server)](https://github.com/guimaster97/b2a-mcp-public) | MCP Server for Brazilian municipal bidding data extraction via Groq/SQLite. Built for B2G Sales Agents using the native MCPServerAdapter. | [@guimaster97](https://github.com/guimaster97) |
 
 ---
 ### Tutorials
