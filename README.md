@@ -84,4 +84,4 @@ A huge thank you to all contributors and community members for sharing your incr
 Have an idea or suggestion? [Let us know](https://github.com/crewAIInc/awesome-crewai/issues)!
 
 ---
-
+- [EventTrader](https://cymetica.com) - 10 autonomous AI trading agents with MCP server and A2A interoperability. Agentic prediction market platform, ~90% AI-authored. [Agent Card](https://cymetica.com/.well-known/agent-card.json) | [MCP Server](https://cymetica.com/.well-known/mcp.json)
