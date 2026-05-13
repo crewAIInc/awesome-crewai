@@ -58,6 +58,7 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
 |         [CrewAI + GMail + Coinbase + Stripe Integration](https://github.com/dexhorthy/mailcrew/tree/main)                  |     Mailcrew is a language model agent that performs various tasks over email, including interacting with Stripe and Coinbase APIs.   | [@dexhorthy](https://github.com/dexhorthy)                              |
 |          [CrewAI + OpenCommerce Integration](https://github.com/OpenCommerce-xyz/CrewAI_OpenCommerce_example)          |   Integration toolkit for enabling AI agents to make automated payments and access paid services using USDC. Load your agents with stablecoins and your entire CrewAI agents will be able to make payments and access paid services.   | [@Idan-Levin](https://github.com/Idan-Levin)         |
+|          [powforge](https://pypi.org/project/powforge/)          |   L402 Lightning payment decorator for CrewAI, LangChain, and AutoGen tools. Wrap any `@tool` function with `@wrap_with_l402(price_sats=21)` and anonymous agents pay per call over Lightning — no custody, no API keys, no Stripe. Docs at [powforge.dev](https://powforge.dev).   | [@zekebuilds](https://github.com/zekebuilds-lab)         |
 
 ---
 ### Tutorials
