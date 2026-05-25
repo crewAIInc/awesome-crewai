@@ -20,6 +20,20 @@
 
 CrewAI is an open-source framework for building and deploying AI agents designed to supercharge business processes and decision-making. Learn more at [crewai.com](https://crewai.com).
 
+## Install CrewAI
+
+Using `uv`:
+
+```bash
+uv pip install crewai
+```
+
+Using `pip`:
+
+```bash
+pip install crewai
+```
+
 ---
 
 ## Submission Guidelines
@@ -70,6 +84,7 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 |         [Legal Assistant Agentic System - LawGlance](https://github.com/lawglance/lawglance)         |   This project leverages AI Agents to create an intelligent legal assistant. The assistant helps users quickly access legal information, focusing on Indian laws and providing clear, accurate answers to their questions. Explore the implementation in our [notebook](https://colab.research.google.com/drive/1yrS2Kp-kprYWot_sEu7JeWMIRAei_vov?usp=sharing).    | [@g-sree-jith](https://github.com/g-sree-jith)      
 |         [Blood Report Analysis Crew](https://github.com/yatharth230703/CREWAI-powered-Blood-Report-Analysis)         |   This project leverages AI agents made using CrewAI framework in order t maintain a standard crew that analyzes blood reports by using a document reading tool , and provide insights as to what precautionary measures the patient should take based on online blog reports, fetched through a websurf tool    | [@yatharth230703](https://github.com/yatharth230703)     
 |         [CrewAI Crews Factory](https://github.com/opahopa/crewai-factory-crew)         |   Generate fully functional CrewAI crews based on the crew's purpose and desired output data    | [@opahopa](https://github.com/opahopa)     
+|         [AI Job Application Crew](https://github.com/AjaasMk/ai-projects/blob/main/job_crew.py)         |   A CrewAI job application assistant that analyzes job descriptions, extracts ATS keywords, rewrites resume bullets, and drafts a concise cover letter using a sequential crew of specialized agents.    | [@AjaasMk](https://github.com/AjaasMk)     
 
 ---
 ### Apps/UI's
