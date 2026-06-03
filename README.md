@@ -70,7 +70,7 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 |         [Legal Assistant Agentic System - LawGlance](https://github.com/lawglance/lawglance)         |   This project leverages AI Agents to create an intelligent legal assistant. The assistant helps users quickly access legal information, focusing on Indian laws and providing clear, accurate answers to their questions. Explore the implementation in our [notebook](https://colab.research.google.com/drive/1yrS2Kp-kprYWot_sEu7JeWMIRAei_vov?usp=sharing).    | [@g-sree-jith](https://github.com/g-sree-jith)      
 |         [Blood Report Analysis Crew](https://github.com/yatharth230703/CREWAI-powered-Blood-Report-Analysis)         |   This project leverages AI agents made using CrewAI framework in order t maintain a standard crew that analyzes blood reports by using a document reading tool , and provide insights as to what precautionary measures the patient should take based on online blog reports, fetched through a websurf tool    | [@yatharth230703](https://github.com/yatharth230703)     
 |         [CrewAI Crews Factory](https://github.com/opahopa/crewai-factory-crew)         |   Generate fully functional CrewAI crews based on the crew's purpose and desired output data    | [@opahopa](https://github.com/opahopa)     
-
+| [WhatsApp Lead Qualifier](https://github.com/anusbutt/whatsapp-lead-qualifier-crewai) | Two-agent pipeline that qualifies and scores inbound WhatsApp sales leads using CrewAI and Anthropic Claude. | [@anusbutt](https://github.com/anusbutt) |
 ---
 ### Apps/UI's
 | Title                          | Description                               | Author                                   |
