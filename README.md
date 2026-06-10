@@ -76,6 +76,7 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 | Title                          | Description                               | Author                                   |
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
 |         [BlogPostEditor](https://huggingface.co/spaces/Skier8402/crewai_article_editor)                  |     A duo of agents that helps you improve your blogpost.The `Senior Article Editor` agent aims to elevate blog posts to their highest potential by refining the content for clarity, coherence, and audience engagement while preserving the writer's unique voice. The `Article Researcher` agent focuses on simplifying the review process by fact-checking, evaluating source credibility, and ensuring the accuracy and relevance of the information presented in the blog post. In a Streamlit UI on Huggingface.   | [@Shuyib](https://github.com/Shuyib)                              |
+|         [KubeCrew](https://github.com/rajithaeyee/kube-crew)                  |     A free, open-source, self-hosted multi-agent system that analyzes Kubernetes clusters and produces actionable reports across reliability, security, cost, and performance. Five specialized CrewAI agents (Reliability, Security, Cost, Performance, and a Synthesizer) run against live clusters or bundled demo snapshots, backed by a FastAPI + Server-Sent Events API and a Vue 3 + TypeScript + Tailwind frontend with report history and side-by-side drift comparison.   | [@rajithaeyee](https://github.com/rajithaeyee)                              |
 
 ---
 ## Acknowledgments
@@ -84,4 +85,3 @@ A huge thank you to all contributors and community members for sharing your incr
 Have an idea or suggestion? [Let us know](https://github.com/crewAIInc/awesome-crewai/issues)!
 
 ---
-
