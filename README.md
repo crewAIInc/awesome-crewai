@@ -58,6 +58,7 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
 |         [CrewAI + GMail + Coinbase + Stripe Integration](https://github.com/dexhorthy/mailcrew/tree/main)                  |     Mailcrew is a language model agent that performs various tasks over email, including interacting with Stripe and Coinbase APIs.   | [@dexhorthy](https://github.com/dexhorthy)                              |
 |          [CrewAI + OpenCommerce Integration](https://github.com/OpenCommerce-xyz/CrewAI_OpenCommerce_example)          |   Integration toolkit for enabling AI agents to make automated payments and access paid services using USDC. Load your agents with stablecoins and your entire CrewAI agents will be able to make payments and access paid services.   | [@Idan-Levin](https://github.com/Idan-Levin)         |
+|          [BuyWhere MCP + CrewAI](https://github.com/BuyWhere/buywhere-mcp)          |   Product catalog MCP server for AI agents. Give your CrewAI agents the ability to search 3M+ products across Singapore, SEA, and US markets (Shopee, Lazada, Amazon, Walmart, FairPrice). Connect via `npx @buywhere/mcp-server`. See [buywhere.ai](https://buywhere.ai).   | [@BuyWhere](https://github.com/BuyWhere)         |
 
 ---
 ### Tutorials
@@ -84,4 +85,3 @@ A huge thank you to all contributors and community members for sharing your incr
 Have an idea or suggestion? [Let us know](https://github.com/crewAIInc/awesome-crewai/issues)!
 
 ---
-
