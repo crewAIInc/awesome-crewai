@@ -58,7 +58,12 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
 |         [CrewAI + GMail + Coinbase + Stripe Integration](https://github.com/dexhorthy/mailcrew/tree/main)                  |     Mailcrew is a language model agent that performs various tasks over email, including interacting with Stripe and Coinbase APIs.   | [@dexhorthy](https://github.com/dexhorthy)                              |
 |          [CrewAI + OpenCommerce Integration](https://github.com/OpenCommerce-xyz/CrewAI_OpenCommerce_example)          |   Integration toolkit for enabling AI agents to make automated payments and access paid services using USDC. Load your agents with stablecoins and your entire CrewAI agents will be able to make payments and access paid services.   | [@Idan-Levin](https://github.com/Idan-Levin)         |
-
+### Integrations
+| Title                          | Description                               | Author                                   |
+|---------------------------------------|---------------------------------------|-----------------------------------------------|
+|         [CrewAI + GMail + Coinbase + Stripe Integration](https://github.com/dexhorthy/mailcrew/tree/main)                  |     Mailcrew is a language model agent that performs various tasks over email, including interacting with Stripe and Coinbase APIs.   | [@dexhorthy](https://github.com/dexhorthy)                              |
+|          [CrewAI + OpenCommerce Integration](https://github.com/OpenCommerce-xyz/CrewAI_OpenCommerce_example)          |   Integration toolkit for enabling AI agents to make automated payments and access paid services using USDC. Load your agents with stablecoins and your entire CrewAI agents will be able to make payments and access paid services.   | [@Idan-Levin](https://github.com/Idan-Levin)         |
+|          [AACP Coordination for CrewAI](https://github.com/MackayAndrew/aacp-crewai)          |   Typed packet coordination protocol for CrewAI agents. Replaces natural language task descriptions with deterministic, schema-validated AACP packets, eliminating coordination LLM calls for known workflows. Measured 30% total cost reduction across a 59-hop multi-agent benchmark. `pip install aacp-crewai`.   | [@MackayAndrew](https://github.com/MackayAndrew)         |
 ---
 ### Tutorials
 | Title                          | Description                               | Author                                   |
