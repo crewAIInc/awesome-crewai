@@ -56,6 +56,7 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 ### Integrations
 | Title                          | Description                               | Author                                   |
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
+| [true402 On-Chain Token Safety](https://github.com/true402/crewai-true402) | Pay-per-call CrewAI tools that rug/honeypot-check a Base token before your agent buys it: a real on-chain buy/sell simulation (state-override eth_call) proves sellability, plus liquidity, ownership and deployer checks. Over x402 (USDC on Base) — no account or API key. | [@true402](https://github.com/true402) |
 |         [CrewAI + GMail + Coinbase + Stripe Integration](https://github.com/dexhorthy/mailcrew/tree/main)                  |     Mailcrew is a language model agent that performs various tasks over email, including interacting with Stripe and Coinbase APIs.   | [@dexhorthy](https://github.com/dexhorthy)                              |
 |          [CrewAI + OpenCommerce Integration](https://github.com/OpenCommerce-xyz/CrewAI_OpenCommerce_example)          |   Integration toolkit for enabling AI agents to make automated payments and access paid services using USDC. Load your agents with stablecoins and your entire CrewAI agents will be able to make payments and access paid services.   | [@Idan-Levin](https://github.com/Idan-Levin)         |
 
