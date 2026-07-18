@@ -58,6 +58,7 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
 |         [CrewAI + GMail + Coinbase + Stripe Integration](https://github.com/dexhorthy/mailcrew/tree/main)                  |     Mailcrew is a language model agent that performs various tasks over email, including interacting with Stripe and Coinbase APIs.   | [@dexhorthy](https://github.com/dexhorthy)                              |
 |          [CrewAI + OpenCommerce Integration](https://github.com/OpenCommerce-xyz/CrewAI_OpenCommerce_example)          |   Integration toolkit for enabling AI agents to make automated payments and access paid services using USDC. Load your agents with stablecoins and your entire CrewAI agents will be able to make payments and access paid services.   | [@Idan-Levin](https://github.com/Idan-Levin)         |
+|          [Bidda Compliance Intelligence for CrewAI](https://github.com/Bidda-Ai/bidda-mcp)          |   Give CrewAI agents source-verified regulatory and legal compliance intelligence across 39 pillars (EU AI Act, GDPR, DORA, NIS2, HIPAA, MITRE ATT&CK/ATLAS), each rule traced to a primary source with a content hash. Connect via MCPServerAdapter to the hosted server at bidda.com/mcp, or use the BiddaCrewAITool (pip install "bidda-shield[crewai]").   | [@Bidda-Ai](https://github.com/Bidda-Ai)         |
 
 ---
 ### Tutorials
