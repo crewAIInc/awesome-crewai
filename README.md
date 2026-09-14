@@ -76,6 +76,7 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 | Title                          | Description                               | Author                                   |
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
 |         [BlogPostEditor](https://huggingface.co/spaces/Skier8402/crewai_article_editor)                  |     A duo of agents that helps you improve your blogpost.The `Senior Article Editor` agent aims to elevate blog posts to their highest potential by refining the content for clarity, coherence, and audience engagement while preserving the writer's unique voice. The `Article Researcher` agent focuses on simplifying the review process by fact-checking, evaluating source credibility, and ensuring the accuracy and relevance of the information presented in the blog post. In a Streamlit UI on Huggingface.   | [@Shuyib](https://github.com/Shuyib)                              |
+| [Knode](https://github.com/hynwl/knode) | Wire up a CrewAI agent team on a visual canvas and watch it run in real time: the graph compiles to a real `crewai.Crew`, node status and agent thoughts stream back over SSE, BYOK keys never leave the browser, a local Ollama path runs for $0, and Export to Python hands you plain CrewAI code. Web (Docker) or desktop app (macOS/Windows). AGPL-3.0, no signup. | [@hynwl](https://github.com/hynwl) |
 
 ---
 ## Acknowledgments
