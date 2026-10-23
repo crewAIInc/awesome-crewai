@@ -60,6 +60,8 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 |          [CrewAI + OpenCommerce Integration](https://github.com/OpenCommerce-xyz/CrewAI_OpenCommerce_example)          |   Integration toolkit for enabling AI agents to make automated payments and access paid services using USDC. Load your agents with stablecoins and your entire CrewAI agents will be able to make payments and access paid services.   | [@Idan-Levin](https://github.com/Idan-Levin)         |
 
 ---
+| [CrewAI + Doomsday Proof-of-Escrow Bounty Triage](https://github.com/doomsday-network/doomsday/tree/main/integrations/crewai) | Multi-agent CrewAI tool (`DoomsdayEscrowVerificationTool`) enabling Researcher and Planner agents to cryptographically verify on-chain UTXO and Base Mainnet bounty collateral before dispatching Coder agents. | [@doomsday-network](https://github.com/doomsday-network) & [@dextermos-dev](https://github.com/dextermos-dev) |
+
 ### Tutorials
 | Title                          | Description                               | Author                                   |
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
