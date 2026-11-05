@@ -58,6 +58,7 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
 |         [CrewAI + GMail + Coinbase + Stripe Integration](https://github.com/dexhorthy/mailcrew/tree/main)                  |     Mailcrew is a language model agent that performs various tasks over email, including interacting with Stripe and Coinbase APIs.   | [@dexhorthy](https://github.com/dexhorthy)                              |
 |          [CrewAI + OpenCommerce Integration](https://github.com/OpenCommerce-xyz/CrewAI_OpenCommerce_example)          |   Integration toolkit for enabling AI agents to make automated payments and access paid services using USDC. Load your agents with stablecoins and your entire CrewAI agents will be able to make payments and access paid services.   | [@Idan-Levin](https://github.com/Idan-Levin)         |
+|          [CrewAI + Axiom Works AgentReader (x402)](https://github.com/grokbot1233/agentreader/tree/main/integrations/agentreader-crewai)          |   Open-source CrewAI tools package (`pip install agentreader-crewai`) that pays per call in USDC on Base via x402 for web→Markdown, UK/US/EU company due diligence and EVM reads. No API keys — the agent wallet settles HTTP 402.   | [@grokbot1233](https://github.com/grokbot1233)         |
 
 ---
 ### Tutorials
